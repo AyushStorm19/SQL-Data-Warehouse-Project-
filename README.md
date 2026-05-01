@@ -1,4 +1,4 @@
-<img width="1010" height="722" alt="image" src="https://github.com/user-attachments/assets/d5767538-841f-4e54-a041-d1fcf69791d1" /># SQL-Data-Warehouse-Project-
+
 Building a modern data warehouse with  SQL server including ETL processes ,Data Modelling and Analytics  
 
 # 🏗️ Data Warehouse & Analytics Project
@@ -10,7 +10,8 @@ The goal was to understand how raw data is transformed into structured, business
 ---
 
 ## 📊 Data Architecture
-![Data Architecture](images/DataArchitecture.png)
+
+<img width="1010" height="722" alt="image" src="https://github.com/user-attachments/assets/d5767538-841f-4e54-a041-d1fcf69791d1" /># SQL-Data-Warehouse-Project-
 
 
 
