@@ -71,7 +71,7 @@ This project follows the **Medallion Architecture**:
 ## 📂 Project Structure
 
 
-data-warehouse-project/
+'''data-warehouse-project/
 │
 ├── datasets/ # Raw data files
 ├── docs/ # Architecture & documentation
@@ -80,7 +80,7 @@ data-warehouse-project/
 │ ├── silver/ # Data cleaning & transformation
 │ ├── gold/ # Analytical models
 ├── README.md
-
+'''
 
 ---
 
